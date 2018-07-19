@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Hello World!
+title: Hello
 tags: [jekyll, test]
 image: hello.jpg
 ---
