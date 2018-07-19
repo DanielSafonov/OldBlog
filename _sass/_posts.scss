@@ -68,7 +68,8 @@
 }
 
 /* Thumbnail */
-.thumbnail-container {
+.thumbnail-container,
+.thumbnail-container-full {
   max-width: 100%;
   overflow: hidden;
   border-radius: 5px;
@@ -80,5 +81,9 @@
   margin-bottom: -5.5%;
 }
 
+.thumbnail-container-full img{
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
 

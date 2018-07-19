@@ -5,7 +5,7 @@ tags: [eclipse, cpp, java, ide, ]
 image: eclipse_photon.jpg
 ---
 
-Нобходимо настроить Eclipse для работы и с проектами на Java, и на C/C++. 
+Нобходимо настроить Eclipse для работы с проектами и на Java, и на C/C++. 
 <!--excerpt-->
 В моем случае изначально стоял пакет Eclipse CDT для работы с C/C++, который следовало обновить до актуальной версии. Сносим старый, ставим новый с [официального сайта](https://www.eclipse.org/downloads/){:target="_blank"}.
 
