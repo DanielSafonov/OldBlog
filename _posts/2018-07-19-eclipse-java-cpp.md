@@ -5,7 +5,7 @@ tags: [eclipse, cpp, java, ide, ]
 image: eclipse_photon.jpg
 ---
 
-Нобходимо настроить Eclipse для работы с проектами и на Java, и на C/C++. 
+Небходимо настроить Eclipse для работы с проектами и на Java, и на C/C++. 
 <!--excerpt-->
 В моем случае изначально стоял пакет Eclipse CDT для работы с C/C++, который следовало обновить до актуальной версии. Сносим старый, ставим новый с [официального сайта](https://www.eclipse.org/downloads/){:target="_blank"}.
 
@@ -21,7 +21,7 @@ $ java -version
 Устанавливаем пакеты из группы `CDT Main Features` (C/C++ Development Tools, C/C++ Development Tools SDK).
 
 Добавим окружение C/C++: `Window > Perspective > Open Perspective > Other > C/C++`. Теперь мы можем менять рабочее окружение с Java на C/C++ и наоборот по клику на соответсвующую иконку в правом верхнем углу экрана:
-![](public/img/eclipse_photon_change_env.png)
+![Иконки смены рабочего окружения](public/img/eclipse_photon_change_env.png)
 
 Осталась только одна проблема - заставить работать пакет CDT (на MacOS при попытке компилляции выходит сообщение "Launch failed. Binary not found."). Все плохо настолько, что после ввода "launch failed binary not found", Google сам добавляет "eclipse c++ mac".
 
