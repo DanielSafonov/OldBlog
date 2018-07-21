@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Hello
-tags: [jekyll, test]
+tags: [jekyll]
 image: hello.jpg
 ---
 
