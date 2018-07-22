@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Ресурсы с идеями для DIY-проектов
-tags: [diy, идея, подборка]
+tags: [diy, идея]
 image: diy_ideas.png
 ---
 
