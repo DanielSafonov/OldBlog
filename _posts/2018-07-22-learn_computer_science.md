@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Учебный процесс в IT
-tags: [обучение, стажировка]
+tags: [обучение]
 image: study_it.jpeg
 ---
 
