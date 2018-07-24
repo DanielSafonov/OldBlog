@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Настройка Eclipse для Java и C/C++ в MacOS
-tags: [eclipse, cpp, java, ide]
+tags: [eclipse, cpp, java, IDE]
 image: eclipse_photon.jpg
 ---
 
