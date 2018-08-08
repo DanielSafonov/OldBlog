@@ -10,6 +10,6 @@ image: diy_ideas.png
 
 **Робототехника, мехатроника, микроконтроллеры, электроника и 3D-печать.**
 
-* [Kikstarter](https://www.kickstarter.com/design-tech?ref=home)
-* [Hackaday](https://hackaday.io/lists)
-* [Instructables](https://www.instructables.com/technology/winners/?sort=winners)
+* [Kikstarter](https://www.kickstarter.com/design-tech?ref=home){:target="_blank"}
+* [Hackaday](https://hackaday.io/lists){:target="_blank"}
+* [Instructables](https://www.instructables.com/technology/winners/?sort=winners){:target="_blank"}
