@@ -3,7 +3,7 @@ permalink:           "/:title"
 title:               PaltusStas
 url:                 http://www.paltusstas.github.io
 description:         "Блог об IT-шных и не очень вещах"
-paginate:            3
+paginate:            5
 baseurl:             ""
 logo:                '/public/logo.png'
 
