@@ -17,7 +17,7 @@ image: work_in_it.jpg
 * Tinkoff, Sberbank, АльфаБанк
 
 **Если подумать еще:**
-* Rambler, 1С
+* Rambler, 1С, ABBYY
 * Intel, Samsung, HP
 * 2ГИС, Авито, Ozon.ru
 * Мегафон, Билайн, МТС, Теле2, YOTA

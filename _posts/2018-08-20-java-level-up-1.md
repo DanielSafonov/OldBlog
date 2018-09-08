@@ -13,6 +13,7 @@ image: java_level_up_1.png
 
 * Программа от Computer Science Center на Stepic с выдачей сертификата: [Java. Базовый курс](https://stepik.org/course/187/){:target="_blank"}
 * Книга [Java 8. Полное руководство. Г.Шилдт](https://www.ozon.ru/context/detail/id/31249554/){:target="_blank"}
+* [JavaDoc](https://docs.oracle.com/javase/8/docs/api/){:target="_blank"}
 * Google/Stackoverflow
 * Сайт с задачами и автоматизированной системой тестирования [CodeAbbey](https://www.codeabbey.com){:target="_blank"}
 
