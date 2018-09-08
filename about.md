@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: 
 ---
+
+<img  src="public/img/face.png" alt="Фото автора блога" style="width: 40%; height: auto; margin: 0 auto;"/>
 
 ### Привет, меня зовут **Даниил Сафонов** и это мой личный блог о технологиях и всем, что меня интересует. 
 
