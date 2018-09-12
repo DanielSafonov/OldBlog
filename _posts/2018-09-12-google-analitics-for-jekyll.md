@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Аналитика для Jekyll
-tags: [jekyll, web]
+tags: [jekyll, web, seo]
 image: google_analitics_jekyll.png
 ---
 Как получить аналитику с блога на Jekyll?
