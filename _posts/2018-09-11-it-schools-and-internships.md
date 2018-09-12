@@ -12,14 +12,15 @@ tags: [обучение, работа]
 
 **Школы:** 
 * [HeadHunter School](https://school.hh.ru){:target="_blank"} - [запись о школе в блоге]({{ site.baseurl }}/hh-school){:target="_blank"}
-* [Kaspersky Safeboard](https://academy.kaspersky.com/safeboard/){:target="_blank"}
+* [Kaspersky Safeboard](https://safeboard.kaspersky.ru/){:target="_blank"}
 * [Sberbank Seasons](http://sberseasons.ru){:target="_blank"}
 * [Академия Яндекса](https://academy.yandex.ru){:target="_blank"}
+* [Тинькофф Финтех - школа](https://fintech.tinkoff.ru){:target="_blank"}
 * [Mail.Ru Технопарк](https://park.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техносфера](https://sphere.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технотрек](https://track.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техноатом](https://atom.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технополис](https://polis.mail.ru/pages/index/){:target="_blank"}
 
 <br/>
 **Стажировки:**
-* [Тинькофф Финтех](https://fintech.tinkoff.ru){:target="_blank"}
+* [Тинькофф Финтех - стажировка](https://fintech.tinkoff.ru){:target="_blank"}
 * [Стажировка в Яндекс](https://yandex.ru/jobs/internship/){:target="_blank"}
 * [Стажировка в Mail.Ru](https://corp.mail.ru/ru/jobs/intern/){:target="_blank"}
 
