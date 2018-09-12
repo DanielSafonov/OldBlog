@@ -8,15 +8,16 @@
   text-align: center;
 }
 
-/* Pagination items can be `span`s or `a`s */
 .pagination-item {
   float: left;
   width: 50%;
   display: block;
   padding: 1rem;
   border: 1px solid $blue-1;
-  color: $blue-1;
+  color: #000;
+  background: #ebebeb;
 }
+
 .pagination-item:first-child {
   margin-bottom: 0;
   border-top-left-radius:    4px;
@@ -29,7 +30,11 @@
   border-bottom-right-radius: 4px;
 }
 
-/* Only provide a hover state for linked pagination items */
+a.pagination-item{
+  color: $blue-1;
+  background: #ffff;
+}
+
 a.pagination-item:hover {
   background-color: $blue-4;
 }
