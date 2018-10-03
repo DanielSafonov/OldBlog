@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: OpenGL & C++ how to - учебные материалы
+title: OpenGL howto - учебные материалы
 tags: [opengl, cpp, обучение]
 ---
 
