@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Настройка Eclipse для Java и C/C++ в MacOS
-tags: [eclipse, cpp, java, IDE]
+tags: [IDE, eclipse, cpp, java]
 image: eclipse_photon.jpg
 ---
 
@@ -25,4 +25,4 @@ $ java -version
 
 Осталась только одна проблема - заставить работать пакет CDT (на MacOS при попытке компилляции выходит сообщение "Launch failed. Binary not found."). Все плохо настолько, что после ввода "launch failed binary not found", Google сам добавляет "eclipse c++ mac".
 
-Решение: `Project > Properties > C/C++ Build > Settings > Binary Parsers`. Снимаем флажки со всего, кроме `Mach -O 64 Parser`. Проверяем, чтобы в `C/C++ Build > Tool Chain Editor` было установлено `Current toolchain: MacOSX GCC`. Кликаем `Apply and Close`. Все работает, Вы восхительны. 🎊
+Решение: `Project > Properties > C/C++ Build > Settings > Binary Parsers`. Снимаем флажки со всего, кроме `Mach -O 64 Parser`. Проверяем, чтобы в `C/C++ Build > Tool Chain Editor` было установлено `Current toolchain: MacOSX GCC`. Кликаем `Apply and Close`. Все работает, Вы восхительны.
