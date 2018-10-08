@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: OpenGL HowTo 1 - учебные материалы
-tags: [opengl, cpp, обучение]
+tags: [opengl, cpp]
 ---
 
 Хотите в OpenGL, но не знаете, с чего начать?
