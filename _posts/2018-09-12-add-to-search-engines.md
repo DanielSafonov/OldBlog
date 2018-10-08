@@ -6,7 +6,7 @@ tags: [jekyll, web, seo]
 
 После создания сайта, необходимо добавить его в поисковые системы, чтобы потенциальный пользователь смог найти его.
 
-<!--excerpt-->
+<!--more-->
 
 **[Статья в блоге о добавлении Google Analytics на сайт]({{ site.baseurl }}/google-analytics-for-jekyll){:target="_blank"}**
 

@@ -7,7 +7,7 @@ image: gulp.jpg
 
 Аналог шаблонизатора liquid для сайтов без фреймворков/CMS.
 
-<!--excerpt-->
+<!--more-->
 
 Данный блог создан на статическом генераторе сайтов Jekyll. ([Об этом здесь]({{ site.baseurl }}/jekyll-how-to){:target="_blank"}
 

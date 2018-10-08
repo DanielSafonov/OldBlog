@@ -3,7 +3,7 @@ permalink:           "/:title"
 title:               PaltusStas
 url:                 http://www.paltusstas.github.io
 description:         "Блог об IT-шных и не очень вещах"
-paginate:            5
+paginate:            7
 baseurl:             ""
 logo:                '/public/logo.png'
 
@@ -23,7 +23,7 @@ pages_list:
   About: '/about'
 
 tag_page: '/sitemap'
-excerpt_separator: "<!--excerpt-->"
+excerpt_separator: "<!--more-->"
 
 # About
 author:            Даниил Сафонов

@@ -7,7 +7,7 @@ image: jekyll&github_blog.png
 
 Использование Jekyll на GitHub Pages для ведения личного блога.
 
-<!--excerpt-->
+<!--more-->
 
 >**[Jekyll](https://jekyllrb.com){:target="_blank"}** - генератор статических сайтов, позволяющий создать гибкий и легковесный блог или сайт. 
 

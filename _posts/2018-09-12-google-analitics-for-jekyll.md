@@ -6,7 +6,7 @@ image: google_analitics_jekyll.png
 ---
 Как получить аналитику с блога на Jekyll?
 
-<!--excerpt-->
+<!--more-->
 {% raw %}
 1. Создадим новый ресурст типа веб-сайт в [Google Analitics](https://analytics.google.com){:target="_blank"}
 2. Создадим новый файл `_includes/analytics.html` и вставим туда сгенерированный Global Site Tag

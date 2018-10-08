@@ -7,7 +7,7 @@ image: compile&run_java_terminal.png
 
 В некоторых случаях компиллировать и запускать программу удобнее из консоли. 
 
-<!--excerpt-->
+<!--more-->
 
 **[Статья об установке Eclipse с Java и С/С++ на борту]({{ site.baseurl }}/eclipse-java-cpp){:target="_blank"}**
 

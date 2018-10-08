@@ -6,7 +6,7 @@ tags: [web, design]
 
 Примеры продуманного и красивого дезигна в вебе.
 
-<!--excerpt-->
+<!--more-->
 
 * **[Студия Артемия Лебедева](https://www.artlebedev.ru/web/){:target="_blank"}**
 * [Альфабанк](https://alfabank.ru){:target="_blank"}

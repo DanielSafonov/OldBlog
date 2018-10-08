@@ -6,7 +6,7 @@ tags: [opengl, cpp]
 
 Хотите в OpenGL, но не знаете, с чего начать?
 
-<!--excerpt-->
+<!--more-->
 
 В предыдущем посте говорилось об [установке OpenGL с C++ в Eclipse]({{ site.baseurl }}/opengl&eclipse_macos){:target="_blank"}.<br/>
 *После обновления на MacOS Mojave все так же отлично работает.*

@@ -6,7 +6,7 @@ tags: [macos, soft]
 
 MacOS - замечательная система, но чего-то ей все таки не хватает.
 
-<!--excerpt-->
+<!--more-->
 
 
 * **[Magnet](){:target="_blank"}** - 

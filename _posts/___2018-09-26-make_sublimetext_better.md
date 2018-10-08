@@ -7,7 +7,7 @@ image: better_sublime_text.png
 
 Именно в этом текстовом редакторе были написны все статьи для этого блога (да и сам блог).
 
-<!--excerpt-->
+<!--more-->
 
 Ссылка на загрузку Sumlime Text 3 https://www.sublimetext.com/3
 

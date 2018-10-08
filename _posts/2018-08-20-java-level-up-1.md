@@ -7,7 +7,7 @@ image: java_level_up_1.png
 
 Переход на Java и повышение квалификации.
 
-<!--excerpt-->
+<!--more-->
 
 [Статья о том, как подготовиться на вакансию Software Engineer в крупную IT-компанию]({{ site.baseurl }}/learn_computer_science){:target="_blank"} содержит в себе подробные учебные планы. В данной статье речь пойдет о том, что использую я для изучения Java Core.
 

@@ -8,7 +8,7 @@ image: 3d_printing_farm.jpg
 *На обложке - фотография фермы 3D-печати компании Prusa.*<br/>
 300 принтеров. Работа 24/7. 3 тонны пластика в месяц. 
 
-<!--excerpt-->
+<!--more-->
 
 ### [Статья на сайте Prusa](https://www.prusaprinters.org/a-quick-look-to-our-printing-farm){:target="_blank"}
 Несмотря на масштабы производства, готовые изделия снимаются с принтеров вручную.
