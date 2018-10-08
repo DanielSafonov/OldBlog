@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Математические формулы для OneNote в MacOS
-tags: [macos, soft]
+tags: [soft, macos]
 image: onenote.png
 ---
 

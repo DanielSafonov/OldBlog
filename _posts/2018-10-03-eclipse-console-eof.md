@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Не работает ctrl+d в консоли Eclipse
-tags: [IDE, eclipse]
+tags: [IDE, eclipse, macos]
 ---
 
 Escape-символ для завершения ввода срабатывает в Eclipse через раз, а в терминале работает без проблем.

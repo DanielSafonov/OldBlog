@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Работа с OpenGL и GLUT в Eclipse на MacOS
-tags: [opengl, cpp, IDE, eclipse]
+tags: [opengl, cpp, IDE, eclipse, macos]
 image: opengl_setup_macos.png
 ---
 

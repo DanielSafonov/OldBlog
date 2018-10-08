@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: Шаблонизатор для html
-tags: [web, jekyll]
+tags: [web]
 image: gulp.jpg
 ---
 
