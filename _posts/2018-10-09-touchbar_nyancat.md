@@ -8,5 +8,5 @@ image: nyancat.jpeg
 >Stupid Nyan Cat animation on your +$2k MacBook Pro's Touchbar. Enjoy.
 
 <p align="center">
-	<a href="https://github.com/avatsaev/touchbar_nyancat" target="_blank">Загрузка <i class="fa fa-download" aria-hidden="true"></i></a>
+	<a href="https://github.com/avatsaev/touchbar_nyancat" target="_blank">GitHub <i class="fa fa-download" aria-hidden="true"></i></a>
 </p>
