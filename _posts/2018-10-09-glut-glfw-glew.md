@@ -8,7 +8,7 @@ OpenGL повсеместно упоминается с какой-то из д�
 
 <!--more-->
 
->Creating an OpenGL context usually requires writing platform-specific code to create a window. It also requires loading OpenGL functions manually from that context. These tools simplify these tasks greatly, in most cases providing cross-platform solutions. **-[Khronos](https://www.khronos.org/opengl/wiki/Related_toolkits_and_APIs){:target="_blank"}**
+>Creating an OpenGL context usually requires writing platform-specific code to create a window. It also requires loading OpenGL functions manually from that context. These tools simplify these tasks greatly, in most cases providing cross-platform solutions. **[-Khronos](https://www.khronos.org/opengl/wiki/Related_toolkits_and_APIs){:target="_blank"}**
 
 То есть, для работы с OpenGL требуется код для конкретной OS, который обеспечит взаимодействие с системой и создание окон, а также некоторые другие возможности. OpenGL - платформонезависимый интерфейс, поэтому и "оконная" библиотека должна быть кроссплатформенна. Рассмотрим наиболее популярные из них.
 
@@ -21,5 +21,5 @@ OpenGL повсеместно упоминается с какой-то из д�
 
 **В итоге:** рекомендуется использовать GLFW & GLEW (или GLUT & GLEW для начала) или SFML & GLEW.
 
-[Установка OpenGL с C++ в Eclipse]({{ site.baseurl }}/opengl&eclipse_macos){:target="_blank"}<br/>
+[Установка OpenGL с C++ в Eclipse]({{ site.baseurl }}/opengl&eclipse-macos){:target="_blank"}<br/>
 [Учебные материалы по OpenGL]({{ site.baseurl }}/opengl&c++-howto){:target="_blank"}

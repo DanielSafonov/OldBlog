@@ -9,7 +9,7 @@ image: java_level_up_1.png
 
 <!--more-->
 
-[Статья о том, как подготовиться на вакансию Software Engineer в крупную IT-компанию]({{ site.baseurl }}/learn_computer_science){:target="_blank"} содержит в себе подробные учебные планы. В данной статье речь пойдет о том, что использую я для изучения Java Core.
+[Статья о том, как подготовиться на вакансию Software Engineer в крупную IT-компанию]({{ site.baseurl }}/learn-computer-science){:target="_blank"} содержит в себе подробные учебные планы. В данной статье речь пойдет о том, что использую я для изучения Java Core.
 
 * Программа от Computer Science Center на Stepic с выдачей сертификата: [Java. Базовый курс](https://stepik.org/course/187/){:target="_blank"}
 * Книга [Java 8. Полное руководство. Г.Шилдт](https://www.ozon.ru/context/detail/id/31249554/){:target="_blank"}
