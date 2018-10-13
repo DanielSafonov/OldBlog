@@ -1,7 +1,8 @@
 permalink:           "/:title"
 
 title:               PaltusStas
-url:                 http://www.paltusstas.github.io
+url:                 https://www.paltusstas.github.io
+canonical_url:       'http://www.paltusstas.github.io'
 description:         "Блог об IT-шных и не очень вещах"
 paginate:            7
 baseurl:             ""
@@ -15,7 +16,7 @@ plugins:
   - jekyll-paginate #Деление главной на страницы
   - jekyll-gist #Интеграция GitHub Gists
   - jekyll-sitemap #Автоматическое построение карты сайта
- #- jekyll-seo-tag #SEO-оптимизация
+  - jekyll-seo-tag #SEO-оптимизация
 
 
 pages_list:    
@@ -27,7 +28,23 @@ excerpt_separator: "<!--more-->"
 
 # About
 author:            Даниил Сафонов
-email:             paltusstas@gmail.com
-github:            https://github.com/PaltusStas
-vk:                https://vk.com/danielsafonov
-tg:                https://t.me/paltusstas
+  email:             paltusstas@gmail.com
+  github:            https://github.com/PaltusStas
+  vk:                https://vk.com/danielsafonov
+  tg:                https://t.me/paltusstas
+
+# Social
+social:
+  name: PaltusStas
+  links:
+    https://vk.com/danielsafonov
+    https://t.me/paltusstas
+    https://github.com/PaltusStas
+
+# Google and Yandex verifications
+webmaster_verifications:
+  google: 
+  yandex: 
+
+# Language
+lang: ru_RU
