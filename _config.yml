@@ -27,7 +27,7 @@ tag_page: '/sitemap'
 excerpt_separator: "<!--more-->"
 
 # About
-author:            Даниил Сафонов
+author:
   email:             paltusstas@gmail.com
   github:            https://github.com/PaltusStas
   vk:                https://vk.com/danielsafonov
