@@ -11,10 +11,10 @@ title:
 
 Подробности добавлю позже, а пока можете связаться со мной:
 <h1 style="text-align: center;">
-	<a href="{{ site.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> 
-	<a href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> 
-	<a href="{{ site.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
-	<a href="{{ site.tg }}" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
+	<a href="{{ site.author.github }}" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<a href="mailto:{{ site.author.email }}" target="_blank"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> 
+	<a href="{{ site.author.vk }}" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
+	<a href="{{ site.author.tg }}" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i></a>
 </h1>
 
 
