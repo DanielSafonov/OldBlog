@@ -11,12 +11,14 @@ tags: [обучение, работа]
 <br/>
 
 **Школы:** 
+* [Национальная лига кейсов Changellenge](http://changellenge.com/event){:target="_blank"}
 * [HeadHunter School](https://school.hh.ru){:target="_blank"} - [запись о школе в блоге]({{ site.baseurl }}/hh-school){:target="_blank"}
 * [Kaspersky Safeboard](https://safeboard.kaspersky.ru/){:target="_blank"}
 * [Sberbank Seasons](http://sberseasons.ru){:target="_blank"}
 * [Академия Яндекса](https://academy.yandex.ru){:target="_blank"}
 * [Тинькофф Финтех - школа](https://fintech.tinkoff.ru){:target="_blank"}
-* [Mail.Ru Технопарк](https://park.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техносфера](https://sphere.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технотрек](https://track.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техноатом](https://atom.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технополис](https://polis.mail.ru/pages/index/){:target="_blank"}
+* [Alfa Factory](http://1.changellenge.com/alfa-factory){:target="_blank"}
+* **Закрытые школы по принзнаку ВУЗа:** [Mail.Ru Технопарк](https://park.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техносфера](https://sphere.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технотрек](https://track.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Техноатом](https://atom.mail.ru/pages/index/){:target="_blank"}, [Mail.Ru Технополис](https://polis.mail.ru/pages/index/){:target="_blank"}
 
 <br/>
 **Стажировки:**
